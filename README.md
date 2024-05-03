@@ -40,6 +40,8 @@ print(df.tail(2))
 df.info()
 ```
 ![Screenshot 2024-05-03 152234](https://github.com/Harsayazheni/Expt01-Introduction-to-Data-Science/assets/118708467/0457f93e-3e62-489a-a43c-5eaf6b2907f8)
+```
+![image](https://github.com/Harsayazheni/Expt01-Introduction-to-Data-Science/assets/118708467/7ebcfa8e-dfae-4146-8173-e0d2f5b42454)
 
 # Result
           <<include your Result here>>
